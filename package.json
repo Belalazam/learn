@@ -1,0 +1,22 @@
+{
+  "name": "firstdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Belalazam/learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Belalazam/learn/issues"
+  },
+  "homepage": "https://github.com/Belalazam/learn#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
